@@ -1,0 +1,2 @@
+# No external dependencies – uses only Python standard libraries.
+# Run with: python DDOS.py
